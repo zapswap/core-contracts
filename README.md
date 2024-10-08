@@ -4,7 +4,7 @@
 [![Tests](https://github.com/Zapswap/core-contracts/actions/workflows/tests.yml/badge.svg)](https://github.com/Zapswap/core-contracts/actions/workflows/tests.yml)
 [![Fuzz Testing](https://github.com/Zapswap/core-contracts/actions/workflows/fuzz-testing.yml/badge.svg)](https://github.com/Zapswap/core-contracts/actions/workflows/fuzz-testing.yml)
 [![Mythx](https://github.com/Zapswap/core-contracts/actions/workflows/mythx.yml/badge.svg)](https://github.com/Zapswap/core-contracts/actions/workflows/mythx.yml)
-[![npm version](https://img.shields.io/npm/v/@pollum-io/v3-core/latest.svg)](https://www.npmjs.com/package/@zapswap/core-contracts/v/latest)
+[![npm version](https://img.shields.io/npm/v/@zapswap/core-contracts/latest.svg)](https://www.npmjs.com/package/@zapswap/core-contracts/v/latest)
 
 *Forked From [Uniswap](https://github.com/uniswap)*
 
