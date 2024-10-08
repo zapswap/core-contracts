@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ZapswapFactory #createPool gas 1`] = `4558514`;
+
+exports[`ZapswapFactory factory bytecode size 1`] = `24535`;
+
+exports[`ZapswapFactory pool bytecode size 1`] = `22142`;
